@@ -1,4 +1,4 @@
-# Capo Lombardo
+# Capo Cresci
 - Versione 1.0: versione iniziale.
 
 Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/CapoCresci/).
